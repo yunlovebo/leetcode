@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>maxArea</title>
+    <script>
+        var maxArea = function(height) {
+            let result = 0;
+            let i = 0; 
+            let j = height.length - 1;
+            let lasti = 0; // 保存上一次左侧高度
+            let lastj = 0; // 保存上一次右侧高度
+            
+            while (i < j) {
+                if (height[i] < height[j]) {
+                    if (height[i] > lasti) { // 如果移动后左侧的高度小于等于上一次左侧高度，本次面积肯定没有上次大，无需计算
+                        result = Math.max(result, height[i] * (j - i));
+                    }
+                    lasti = height[i];
+                    i++;
+                } else {
+                    if (height[j] > lastj) { // 右侧同理
+                        result = Math.max(result, height[j] * (j - i));
+                    }
+                    lastj = height[j];
+                    j--;
+                }
+            }
+            
+
+            return result;
+        };
+
+        console.log(maxArea([1,8,6,2,5,4,8,3,7])); // 49
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
