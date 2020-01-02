@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script>
+        // 1. 迭代
+        function reverseList (head) {
+            let prev = null;
+            let curr = head;
+            while (curr) {
+                let next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+            return prev;
+        }
+
+        // 2. 递归
+        function reverseList1 () {
+            let reverse = (prev, curr) => {
+                if(!curr) return prev;
+                let next = curr.next;
+                curr.next = prev;
+                return reverse(curr, next);
+            }
+
+            return reverse(null, head);
+        }
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
