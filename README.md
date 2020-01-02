@@ -9,4 +9,4 @@ leetcode题解js版代码，欢迎star、review、issue、pr
 
 # Linked-List
 
-### 1. [[easy]原题206](https://github.com/yunlovebo/leetcode/blob/master/Array/move-zeros/index.md)反转链表
+### 1. [[easy]原题206](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/reverse-list/index.html)反转链表
