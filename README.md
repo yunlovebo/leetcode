@@ -10,3 +10,4 @@ leetcode题解js版代码，欢迎star、review、issue、pr
 # Linked-List
 
 ### 1. [[easy]原题206](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/reverse-list/index.html)反转链表
+### 2. [[medium]原题24](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/swap-pairs/index.md)两两交换链表中的节点
