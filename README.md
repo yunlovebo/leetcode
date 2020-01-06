@@ -1,5 +1,5 @@
-# leetcode
-leetcode题解js版代码，欢迎star、review、issue、pr
+# leetcode题解 - js版
+l欢迎star、review、issue、pr
 
 # Array
 ### 1. [[easy]原题283](https://github.com/yunlovebo/leetcode/blob/master/Array/move-zeros/index.md)移动零 
