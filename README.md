@@ -11,3 +11,5 @@ l欢迎star、review、issue、pr
 
 ### 1. [[easy]原题206](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/reverse-list/index.html)反转链表
 ### 2. [[medium]原题24](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/swap-pairs/index.md)两两交换链表中的节点
+### 3. [[easy]原题141](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/has-cycle/index.md)链表是否有环
+
