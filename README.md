@@ -1,5 +1,5 @@
 # leetcode题解 - js版
-l欢迎star、review、issue、pr
+欢迎star、review、issue、pr
 
 # Array
 ### 1. [[easy]原题283](https://github.com/yunlovebo/leetcode/blob/master/Array/move-zeros/index.md)移动零 
@@ -10,6 +10,7 @@ l欢迎star、review、issue、pr
 # Linked-List
 ### 1. [[easy]原题206](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/reverse-list/index.html)反转链表
 ### 2. [[medium]原题24](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/swap-pairs/index.md)两两交换链表中的节点
+### 3. [[easy]原题141](https://github.com/yunlovebo/leetcode/blob/master/LinkedList/has-cycle/index.md)链表是否有环
 
 # stack queue
 #### 1. [[easy]原题20](https://github.com/yunlovebo/leetcode/blob/master/Stack/valid-parentheses/index.md) 有效的括号
