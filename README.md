@@ -14,3 +14,4 @@
 
 # stack queue
 #### 1. [[easy]原题20](https://github.com/yunlovebo/leetcode/blob/master/Stack/valid-parentheses/index.md) 有效的括号
+#### 2. [[easy]原题155](https://github.com/yunlovebo/leetcode/blob/master/Stack/min-stack/index.md) 最小栈
