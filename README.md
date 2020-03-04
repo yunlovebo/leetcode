@@ -18,4 +18,4 @@
 #### 3. [[hard]原题84](https://github.com/yunlovebo/leetcode/blob/master/Stack/largest-rectangle-area/index.md) 柱状图中最大的矩形(锯木头)
 
 # recursion
-#### 1. [递归思想](https://github.com/yunlovebo/leetcode/blob/master/Stack/valid-parentheses/index.md)
+#### 1. [递归思想](https://github.com/yunlovebo/leetcode/blob/master/Recursion/thinking.md)
