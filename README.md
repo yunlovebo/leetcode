@@ -16,3 +16,7 @@
 #### 1. [[easy]原题20](https://github.com/yunlovebo/leetcode/blob/master/Stack/valid-parentheses/index.md) 有效的括号
 #### 2. [[easy]原题155](https://github.com/yunlovebo/leetcode/blob/master/Stack/min-stack/index.md) 最小栈
 #### 3. [[hard]原题84](https://github.com/yunlovebo/leetcode/blob/master/Stack/min-stack/index.md) 柱状图中最大的矩形(锯木头)
+
+
+# recursion
+#### 1. [递归思想](https://github.com/yunlovebo/leetcode/blob/master/Stack/valid-parentheses/index.md)
